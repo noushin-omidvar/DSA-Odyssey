@@ -53,4 +53,4 @@ return True
 
 - [Determine if a string has all unique characters](https://github.com/noushin-omidvar/DSA-Odyssey/tree/main/arrays/0-IsUnique).
 - Check if a string is a palindrome.
-- Replace all spaces in a string with '%20'.
+- [Replace all spaces in a string with '%20'](https://github.com/noushin-omidvar/DSA-Odyssey/tree/main/arrays/3-URLify).
