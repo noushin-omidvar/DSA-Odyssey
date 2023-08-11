@@ -44,7 +44,7 @@ function isUnique(str):
 
 ## Related Problems
 
-- Determine if two strings are permutations of each other.
+- [Determine if two strings are permutations of each other](https://github.com/noushin-omidvar/DSA-Odyssey/tree/main/arrays/1-CheckPermutation).
 - Check if a string is a palindrome.
 - Replace all spaces in a string with '%20'.
 
