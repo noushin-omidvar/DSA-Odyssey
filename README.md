@@ -14,7 +14,6 @@ Welcome to the DSA Odyssey Repository! This immersive journey is a collection of
   - [Contributing](#contributing)
   - [Resources](#resources)
   - [Contact](#contact)
-  - [License](#license)
 
 ## Introduction
 
@@ -68,12 +67,7 @@ Expand your knowledge with these enlightening resources:
 
 ## Contact
 
-To communicate, question, or simply commune, send your missives to [your.email@example.com](mailto:your.email@example.com).
+To communicate, question, or simply commune, send your missives to [noush.omidvar@gmail.com](mailto:noush.omidvar@gmail.com).
 
-## License
-
-This odyssey is licensed under the [MIT License](LICENSE).
-
----
 
 Bon voyage on your coding odyssey, and may your learning voyage be celestial! 🚀
