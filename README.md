@@ -60,11 +60,6 @@ Feel free to run the code locally, modify the solutions, and use them to further
 
 ## Resources
 
-Check out these resources to learn more about data structures and algorithms:
-
-- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) - A wealth of articles and explanations on various DSA topics.
-
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com) by Gayle McDowll
 
 
