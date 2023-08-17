@@ -28,7 +28,7 @@ To solve this problem, we can perform the following checks:
 2. Find the first difference and check if the rest is the same 
 
 ## Pseudocode
-
+```
 function isOneEditAway(s1, s2):
     if len(s1) > len(s2):
         return isOneEditAway(s2, s1)
@@ -45,6 +45,7 @@ function isOneEditAway(s1, s2):
 
     return len(s1) + 1 == len(s2)
 
+```
 
 ## Complexity Analysis
 
